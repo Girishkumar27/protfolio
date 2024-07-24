@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     line-height: 1.6;
-    background-image: url("https://images.pexels.com/photos/7435280/pexels-photo-7435280.jpeg");
+    background-image: url("https://images.pexels.com/photos/2310713/pexels-photo-2310713.jpeg?auto=compress&cs=tinysrgb&w=1920&h=2880&dpr=1");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -15,6 +15,17 @@ header {
     text-align: center;
     background-image: url("https://cdn.pixabay.com/photo/2016/03/18/15/02/ufo-1265186_1280.jpg");
     background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.Avatar {
+    margin: auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 50% ;
+    border: 2px solid whitesmoke;
+    background-image: url("profile pic.jpg");
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
